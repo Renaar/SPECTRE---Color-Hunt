@@ -50,6 +50,12 @@ src/
 | Bouton debug « +1 capture (marcher 2 km) »              | Recharge quotidienne à minuit (max 5 en réserve) |
 | Unicité mondiale (locale à l'appareil, pas de réseau)   | Persistance de la collection, provenance photo |
 
+## Version Android
+
+[`docs/SPECTRE_Android_AI_Studio.md`](docs/SPECTRE_Android_AI_Studio.md) : spécification complète
+(Kotlin + Jetpack Compose) prête à coller dans Google AI Studio (mode Build → application Android),
+avec la logique de jeu normative, la timeline de révélation, les textes et les vecteurs de test.
+
 ## Règles clés
 
 - **Loterie du pixel** : le serveur choisit lui-même un pixel de la photo et ajoute
